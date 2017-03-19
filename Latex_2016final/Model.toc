@@ -1,0 +1,45 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Problem Restatement and Analysis}{1}{subsection.1.2}
+\contentsline {section}{\numberline {2}Assumption}{2}{section.2}
+\contentsline {section}{\numberline {3}Symbol Description}{2}{section.3}
+\contentsline {section}{\numberline {4}Problem A : Information Flow and Filter Model}{2}{section.4}
+\contentsline {subsection}{\numberline {4.1}Information Flow Model}{3}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Theoretical Model of Information Flow}{3}{subsubsection.4.1.1}
+\contentsline {paragraph}{Basic theory of society's information network}{3}{section*.1}
+\contentsline {paragraph}{Dynamic transmission mechanism}{4}{section*.2}
+\contentsline {paragraph}{Transformation of the states of nodes}{4}{section*.3}
+\contentsline {paragraph}{The attributes of each part of the network}{4}{section*.4}
+\contentsline {subsubsection}{\numberline {4.1.2}Example of Information Flow Network Model (Internet)}{5}{subsubsection.4.1.2}
+\contentsline {paragraph}{Construction of realistic network model}{5}{section*.5}
+\contentsline {subsection}{\numberline {4.2}Information Filter Model}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Information Flow and Filter Model Simulation}{7}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Simulation assumptions and data sources}{7}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Simulation process}{7}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Simulation results}{8}{subsubsection.4.3.3}
+\contentsline {section}{\numberline {5}Problem B : Forecast Information Network's Structure \& Validate its Reliability}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Short Term Prediction Model of Information Dissemination}{9}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Model preparation}{9}{subsubsection.5.1.1}
+\contentsline {paragraph}{Node distinction}{9}{section*.6}
+\contentsline {subsubsection}{\numberline {5.1.2}Realistic network model construction}{9}{subsubsection.5.1.2}
+\contentsline {paragraph}{(1) Constructing a dissemination network}{9}{section*.7}
+\contentsline {paragraph}{(2) Adding the new people or group to the network}{10}{section*.8}
+\contentsline {paragraph}{(3) Adding the new relationship to the network}{10}{section*.9}
+\contentsline {paragraph}{(4) Determine the upper limit of the relationship}{10}{section*.10}
+\contentsline {paragraph}{(5) Calculation of model evaluation index}{11}{section*.11}
+\contentsline {subsection}{\numberline {5.2}Model Simulation Process}{11}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Forecast \& Validation Results}{12}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Forecast Results}{12}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Validation Results}{13}{subsubsection.5.3.2}
+\contentsline {section}{\numberline {6}Problem C : Long Term Network Evolution Model}{13}{section.6}
+\contentsline {subsection}{\numberline {6.1}Model building}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}The bold assumption of future communication technology}{14}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Model solving}{14}{subsection.6.3}
+\contentsline {section}{\numberline {7}Problem D : Public Opinion Dissemination Model}{16}{section.7}
+\contentsline {section}{\numberline {8}Problem E : Analyze the Factors that Influence the Public Opinion Dissemination}{17}{section.8}
+\contentsline {subsection}{\numberline {8.1}Influence Factors of Public Opinion Disseminate}{17}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Analysis One Historical Event based on Public Opinion Dissemination Model}{18}{subsection.8.2}
+\contentsline {section}{\numberline {9}Strengths and Weaknesses}{19}{section.9}
+\contentsline {paragraph}{Strengths}{19}{section*.12}
+\contentsline {paragraph}{Weaknesses}{19}{section*.13}
+\contentsline {section}{References}{20}{section*.14}

@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Problem Restatement and Analysis}{2}{section.2}
+\contentsline {section}{\numberline {3}Basic Assumptions}{2}{section.3}
+\contentsline {section}{\numberline {4}Symbol Description}{3}{section.4}
+\contentsline {section}{\numberline {5}Model Preparation}{3}{section.5}
+\contentsline {subsection}{\numberline {5.1}The Analytic Hierarchy Process}{4}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Grey relational analysis model based on weighted entropy}{5}{subsection.5.2}
+\contentsline {section}{\numberline {6}Model Establishment}{5}{section.6}
+\contentsline {subsection}{\numberline {6.1}Objective Judgment Model----Using GRAP}{5}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Subjective Judgment Model----Using AHP}{6}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Constructing the Hierarchy}{7}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Pairwise comparing the criteria with respect to the goal}{8}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Making the decision}{8}{subsubsection.6.2.3}
+\contentsline {subsection}{\numberline {6.3}The Influence of other Factors}{10}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Time Influence}{10}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2} Sex Influence}{10}{subsubsection.6.3.2}
+\contentsline {section}{\numberline {7}Solving the Model}{10}{section.7}
+\contentsline {section}{\numberline {8}Strengths and Weaknesses}{11}{section.8}
+\contentsline {subsection}{\numberline {8.1}Strengths}{11}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Weaknesses}{11}{subsection.8.2}
+\contentsline {section}{\numberline {9}the Article for Sports Illustrated}{12}{section.9}
+\contentsline {section}{Appendices}{13}{section*.2}
+\contentsline {section}{Appendix \numberline {A}The Data of Objective Judgement Model}{13}{Appendix.a.A}
+\contentsline {section}{Appendix \numberline {B}The Data of Subjective Judgement Model }{15}{Appendix.a.B}

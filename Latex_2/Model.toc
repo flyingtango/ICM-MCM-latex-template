@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Problem Restatement and Analysis}{1}{subsection.1.2}
+\contentsline {paragraph}{Problem \uppercase {i}}{2}{section*.1}
+\contentsline {paragraph}{Problem \uppercase {ii}}{2}{section*.2}
+\contentsline {paragraph}{Problem \uppercase {iii}}{2}{section*.3}
+\contentsline {section}{\numberline {2}Assumption}{2}{section.2}
+\contentsline {section}{\numberline {3}Symbol Description}{2}{section.3}
+\contentsline {section}{\numberline {4}Model Preparation}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Technical Regulation on Ambient Air Quality Index (on trial)\cite {RA}}{3}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Basic Nomenclature and Definitions}{3}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Air Quality Index Calculation Method}{3}{subsubsection.4.1.2}
+\contentsline {paragraph}{(1) Air quality index classification scheme}{3}{section*.4}
+\contentsline {paragraph}{(2) Air Quality Index Calculation Method}{4}{section*.5}
+\contentsline {subsubsection}{\numberline {4.1.3}Air Quality Index and Method for Determination of Primary Pollutant}{4}{subsubsection.4.1.3}
+\contentsline {paragraph}{(1) Air Quality Index Calculation Method}{4}{section*.6}
+\contentsline {paragraph}{(2) Method for Determination of Primary Pollutant}{5}{section*.7}
+\contentsline {subsection}{\numberline {4.2}Data Capture}{5}{subsection.4.2}
+\contentsline {section}{\numberline {5}Problem \uppercase {i}}{5}{section.5}
+\contentsline {subsection}{\numberline {5.1}Time Analysis Model Based on Discrete Wavelet Transform}{5}{subsection.5.1}
+\contentsline {paragraph}{One level of the transform}{6}{section*.8}
+\contentsline {paragraph}{Cascading and Filter banks}{7}{section*.9}
+\contentsline {paragraph}{Relationship to the Mother Wavelet}{7}{section*.10}
+\contentsline {subsection}{\numberline {5.2}Spatial Analysis Model Based on Discrete Wavelet Transform}{9}{subsection.5.2}
+\contentsline {section}{\numberline {6}Problem \uppercase {ii}}{9}{section.6}
+\contentsline {subsection}{\numberline {6.1}Emission of pollution}{10}{subsection.6.1}
+\contentsline {paragraph}{Cluster Analysis Model of Emission Factor}{10}{section*.11}
+\contentsline {paragraph}{Definition}{10}{section*.12}
+\contentsline {paragraph}{Cluster Analysis Process}{10}{section*.13}
+\contentsline {subsection}{\numberline {6.2}Weather}{11}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Central Heating}{12}{subsection.6.3}
+\contentsline {section}{\numberline {7}Strengths and Weaknesses}{13}{section.7}
+\contentsline {subsection}{\numberline {7.1}Strengths}{13}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Weaknesses}{13}{subsection.7.2}
+\contentsline {section}{\numberline {8}Smog Suggestion Letter in Xi'an}{13}{section.8}
+\contentsline {section}{References}{14}{section*.14}
+\contentsline {section}{Appendices}{15}{section*.16}
+\contentsline {section}{Appendix \numberline {A}First appendix}{15}{Appendix.a.A}
+\contentsline {section}{Appendix \numberline {B}Second appendix}{15}{Appendix.a.B}
